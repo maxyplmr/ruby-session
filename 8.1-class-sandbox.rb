@@ -17,3 +17,12 @@ pp my_car.speed
 
 my_car.name = "BMW"
 pp my_car.name
+
+Car.static_method
+Car.static_method2
+puts Car.class_variable
+
+puts "=" * 20
+puts Car.methods
+# puts Car.instance_methods
+puts "=" * 20
