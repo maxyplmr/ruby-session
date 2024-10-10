@@ -1,0 +1,2 @@
+some str
+some 123

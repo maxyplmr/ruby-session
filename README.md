@@ -1,4 +1,4 @@
-### Ruby on Rails
+### Ruby
 
 Интерпретируемый язык
 Динамическая, Строгая, Неявная типизация
@@ -32,6 +32,6 @@ rbenv global 3.3.0
 ruby -v
 ```
  
-### Good To Rember
-ruby
-irb
+### Ruby
+ruby - Ruby Interpreter
+irb (Interactive Ruby) - REPL (Read-Eval-Print Loop)

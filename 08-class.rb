@@ -43,6 +43,8 @@ class Car
     pp @speed
   end
 
+  alias_method :get_speed33, :get_speed
+
   def check_speed(speed)
     if(@speed > speed)
       return "Скорость больше"
